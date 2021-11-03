@@ -1,3 +1,5 @@
+created for those who stucked at the beginning, coz every pro was once a noob !
+
 https://www.oracle.com/java/technologies/javase-jdk-7-netbeans-downloads.html
 
 database name : data
