@@ -1,6 +1,8 @@
 🔰created for those who stucked at the beginning, coz every pro was once a noob !🔰
 
-https://www.oracle.com/java/technologies/javase-jdk-7-netbeans-downloads.html
+for netbeans bundle : https://www.oracle.com/java/technologies/javase-jdk-7-netbeans-downloads.html
+
+for JDBC Driver for MySQL (Connector/J) : https://dev.mysql.com/downloads/connector/j/
 
 database name : data
 
