@@ -14,4 +14,4 @@ note :
 
 1. In Libraries remove "mysql-connector-java-8.0.17/mysql-connector-java-8.0.17.jar" and add your mysql connector to Library
 
-2. If you are using mysql connector version below "MySQL Connector/J 8.0" then change "com.mysql.cj.jdbc.Driver" to "com.mysql.jdbc.Driver" in DBconnection.java
+2. If you are using old jdk version then modify "com.mysql.cj.jdbc.Driver" to "com.mysql.jdbc.Driver" in DBconnection.java (because "com.mysql.jdbc.Driver" is depreciated)
